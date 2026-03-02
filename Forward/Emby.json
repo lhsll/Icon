@@ -1,0 +1,13 @@
+{
+  "name": "EMBY图标",
+  "icons": [
+    {
+      "name": "Nebula_Media",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Forward/Nebula_Media.png"
+    },
+    {
+      "name": "Embydada",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Forward/Embydada.png"
+    },
+  ]
+}
