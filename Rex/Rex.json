@@ -1,0 +1,41 @@
+{
+  "name": "Rex_EMBY图标",
+  "icons": [
+    {
+      "name": "Nebula_Media",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/Nebula-Media.png"
+    },
+    {
+      "name": "nyamedia",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/nyamedia.png"
+    },
+    {
+      "name": "paul_user",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/paul_user.png"
+    },
+    {
+      "name": "nijigen_emby",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/nijigen_emby.png"
+    },
+    {
+      "name": "Shrek",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/Shrek.png"
+    },
+    {
+      "name": "SNTP Media Lite,
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/SNTPMediaLite.png"
+    },
+    {
+      "name": "这只猫emby",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/这只猫emby.png"
+    },
+    {
+      "name": "乐蛙影视站",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/乐蛙影视站.png"
+    },
+    {
+      "name": "茶百道",
+      "url": "https://raw.githubusercontent.com/lhsll/Icon/main/Rex/茶百道.png"
+    },
+  ]
+}
